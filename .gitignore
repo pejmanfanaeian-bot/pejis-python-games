@@ -1,0 +1,10 @@
+# Python bytecode / caches
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Game Hub local data — user accounts & personal bests (private, generated at runtime)
+users.json
